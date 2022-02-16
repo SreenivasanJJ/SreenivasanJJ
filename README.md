@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SreenivasanJJ
 - 👀 I’m interested in VLSI Architectures
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Microelectronics course in BITS
+- 💞️ I’m looking to collaborate on projects on Digital VLSI Architectures 
 - 📫 How to reach me - https://www.linkedin.com/in/sreenivasan-jouly-67724312b/
 
 <!---
