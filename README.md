@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SreenivasanJJ
+- 👋 Hi, I’m Sreenivasan Jouly
 - 👀 I’m interested in VLSI Architectures
 - 🌱 I’m currently learning Microelectronics course in BITS
 - 💞️ I’m looking to collaborate on projects on Digital VLSI Architectures 
